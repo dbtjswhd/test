@@ -3,7 +3,7 @@
 <hr>
 <p> 😀안녕하세요!
 저는 프로그래밍을 공부 하고 있는 19살 입니다~! <br>
-저는 JS , HTML , CSS , C , JAVA , DB , PYTHON , Node.JS , 를 공부하고 있습니다!<br>
+저는 JS , HTML , CSS , C , JAVA , DB , PYTHON , Node.JS를 공부하고 있습니다!<br>
 앞으로의 저의 발전의 많관부~~~
 
 <br>
